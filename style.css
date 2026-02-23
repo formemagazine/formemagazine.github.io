@@ -94,3 +94,20 @@ footer {
     color: #777;
     background-color: #ffffff;
 }
+.article {
+  max-width: 700px;
+  margin: 100px auto;
+  font-family: 'Georgia', serif;
+  line-height: 1.8;
+}
+
+.article h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-style: italic;
+  margin-bottom: 40px;
+  color: gray;
+}
